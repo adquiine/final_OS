@@ -6,4 +6,8 @@ There are all the explanations for final exam
 2)	Roza Tlekbay	CS-2123
 3)	Aisha Satybay	CS-2123
 
+Task 1:
+
+
+Screenshots of the code compilation result:
 
