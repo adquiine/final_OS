@@ -11,3 +11,4 @@ Task 1:
 
 Screenshots of the code compilation result:
 
+![image](https://user-images.githubusercontent.com/86833038/218450877-09f11949-274a-497e-bf14-cf78429a11f2.png)
